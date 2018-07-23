@@ -14,4 +14,4 @@ I implemented form validation and dynamic break points to create a responsive us
 I Integrated JUnit and Selenium frameworks to create a full coverage testing suite.<br />
 This application queries from and modifies a SQL database. <br />
 <br />
-The application utulized a Tomcat server. 
+The application utilized a Tomcat server. 
